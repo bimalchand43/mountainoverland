@@ -1,0 +1,158 @@
+body{
+  background-color: #BBBBBB;
+}
+
+
+#hdr{
+  background-color: #330000;
+  border:1px solid #000000;
+  height:100px;
+  color: #FFFFFF;
+}
+#bannar{
+   border: 2px solid #330033 ;
+}
+
+.leftcontent,.rightcontent,.footer {
+    border:1px solid #59a59d;
+    background:  #E6E6E6;
+    padding:0px;
+
+}
+.leftcontent {
+
+
+}
+.rightcontent {
+    width:637px;
+    height:250px;
+
+    float:right;
+}
+.leftcontent .tblsearch{
+  padding:5px 10px;
+  width:350px;
+  height: 250px;
+  border: 1px solid #000000;
+  background-color:  #99CCCC;
+}
+.leftcontent table tr th{
+  background: url(images/head.gif);
+  color: #FFFFFF;
+}
+
+.tblbuslist{
+  border:2px solid #000;
+  background:#fff;
+  width:100%;
+
+}
+.tblbuslist td{
+  border-bottom:1px solid #ddd;
+  padding:5px 10px;
+}
+
+div.tblbusview{
+  padding:10px 20px;
+  float: center;
+}
+div.tblbusview h1 {
+	font-size:18pt;
+	border-bottom:5px solid #a00;
+	padding:0px;
+	margin:10px 0px 20px;
+	width:100%;
+}
+
+div.tblbusview div.data table {
+	border:2px solid #000;
+	background:#fff;
+	width:100%;
+}
+div.tblbusview div.data table td {
+	font-size:12pt;
+	padding:5px 10px;
+	border-bottom:1px solid #ddd;
+	text-align: left;
+}
+div.tblbusview div.data table th {
+	text-align: left;
+	font-size: 12pt;
+	padding: 10px 10px 7px;
+	text-transform: uppercase;
+	color: #fff;
+	background:url(images/head.gif) left -5px repeat-x;
+}
+.img:hover, .img{
+  background:  #330000;
+  color:#FFFFFF ;
+}
+
+.tblbuslist1 tr:hover{
+  background: #aaa;
+}
+
+#tmenu {
+  background-color:#DDDDDD;
+  border:2px solid #FFFFFF;
+  margin-top:5px;
+  margin-bottom:5px;
+  padding : 10px;
+  text-align:left;
+}
+#tmenu a{
+  text-decoration: none;
+  width:100px;
+  background-color: #330000;
+  color: #FFFFFF;
+  font-weight : bold;
+  padding : 5px 20px 5px 20px;
+
+}
+
+#tmenu a:hover{
+  background-color: #993300;
+  color :  #FFFF00;
+}
+#selectButn{
+  margin-top:1px;
+  margin-bottom:1px;
+  padding : 5px;
+  text-align:right;
+}
+
+ #selectButn a{
+  text-decoration: none;
+  width:100px;
+  background-color: #4F0027;
+  color: #FFFFFF;
+  font-weight : bold;
+  padding : 5px 20px 5px 20px;
+ }
+
+ #selectButn a:hover{
+  background-color: #993300;
+  color: #FFFF00;
+
+ }
+ #viewDtls a{
+   text-decoration: none;
+   font-weight : bold;
+ }
+
+
+
+#lc{
+  width:200px;
+}
+#rc{
+  width:800px;
+}
+#ftr{
+  clear:both;
+  background-color: #4A4A4A;
+  color: #FFFFFF;
+  height:25px;
+  text-align: right;
+
+}

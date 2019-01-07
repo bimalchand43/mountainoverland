@@ -1,0 +1,100 @@
+body{
+	margin:0;
+	padding:0;
+	background-color: #FFFFFF;
+	}
+.index{
+    text-align: right;
+      }
+.main{
+	margin:50px auto;
+	padding:5px;
+	width:805px;
+     border:1px solid #c4c4c4;
+	}
+
+.banner{
+	margin:0 auto 0 auto;
+	padding:0 0 20px 0;
+	width:800px;
+	border-left:1px solid #71bd00;
+	border-right:1px solid #71bd00;
+	border-top:1px solid #71bd00;
+	}
+.banner img{
+	margin:0;
+	padding:10px 15px 0 15px;
+	float:left;
+	}
+h1.green{
+	margin:0;
+	padding:20px 0 0 20px;
+	font-family:tahoma;
+	font-size:18px;
+	overflow:hidden;
+	color:black;
+	width:600px;
+	font-weight:normal;
+	text-align:left;
+	}
+h1.green span{
+    
+	font-family:tahoma;
+	font-size:22px;
+	color:black;
+	text-align:center;
+	}
+  h4.green1 {
+	font-family:tahoma;
+	font-size:12px;
+	color:#436d05;
+	}
+
+.tbl{
+	margin: 0 0 15px 0;
+	padding:0;
+	}
+.tbl td{
+	margin:0;
+	padding:3px 7px;
+	font-family:tahoma;
+	font-size:14px;
+	border-bottom:#EEEEEE solid 1px;
+	}
+
+
+.border{
+	margin: 0 auto 15px auto;
+	padding:0;
+	width:800px;
+	border-left:1px solid #71bd00;
+	border-right:1px solid #71bd00;
+	border-bottom:1px solid #71bd00;}
+.tbl_one td{
+	margin:0;
+	padding:3px 7px;
+	font-family:tahoma;
+	font-size:14px;
+	border-bottom:#EEEEEE 1px solid;
+	border-right:#EEEEEE 1px solid;
+	}
+
+.tbl_one th{
+	background-color:#00882D;
+	color:#FFFFFF;
+	border-right:#FFFFFF 1px solid;
+}
+
+
+.banner p{
+	font-family:tahoma;
+	font-size:14px;
+	color:#558e01;
+	}
+.banner input{
+	float:right;
+	}
+
+		
+		
+		
